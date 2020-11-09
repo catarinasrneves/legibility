@@ -1,3 +1,5 @@
+
+
 body {
     background: #fff;
     box-shadow: 0 0 2px rgba(0, 0, 0, 0.06);
@@ -5,20 +7,26 @@ body {
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-size: 19px;
     line-height: 1.6;
-    margin: 0 8em auto;
-    padding: 2em 2em 4em;
+    margin: 0 8em ;
+    padding: 2em 2em;
 }
 
 h1{
-    margin-bottom:2em;
+ 
 }
 
 p {
     
-    margin-top: -30px;
+   margin:0 auto; 
+    
 }
 
 
-.estimated{
+#refs p{
+    margin-top:10px;
+}
+
+
+#estimated{
     margin-top: 1em;
 }
